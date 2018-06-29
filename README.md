@@ -12,6 +12,7 @@ Framework de bom desempenho em desenvovimento web, mais recomendavel para dispos
 
 Vídeo de instalação e explicação:
 ----------------------------------
+https://www.youtube.com/watch?v=YOK26pPhdZg&feature=youtu.be
 
 
 - Documentação disponivel em: https://ionicframework.com/docs/components/#overview (somente em ingles)
